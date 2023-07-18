@@ -1,0 +1,87 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+.first{
+    display: flex;
+    margin: 10px 30px 10px;
+
+}
+
+.second{
+    display: flex;
+    margin: 10px 30px 10px;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+
+}
+.half-width{
+    width: 50%;
+    padding-top: 100px;
+    padding-left: 40px;
+}
+.half-width2{
+    width: 50%;
+    padding-top: 100px;
+    padding-left: 40px;
+}
+.half-width2 img{
+    width: 300px;
+    height: 500px;
+  padding-left: 90px;
+}
+.half-width img{
+    width: 100%;
+  
+}
+.order{
+    text-decoration: none;
+    background-color: rgb(110, 29, 29);
+    background-image: linear-gradient(rgb(145, 49, 49), orange);
+    padding: 20px 40px;
+    border-radius: 50px;
+    font-weight: 1000;
+    color: white;
+    margin-top: 8cqmax;
+}
+.flexible{
+    display: flex;
+
+}
+
+.half-width3 img{
+    width: 80%;
+    padding: 10%;
+    
+
+}
+.shadow{
+    box-shadow: 3px 3px 30px red, -1em 0 .4em olive;
+    margin: 5% 5%;
+    border-radius: 20px;
+}
+.title{
+    text-align: left;
+    font-weight: 700;
+    font-size: 40px;
+    padding-left: 5%;
+   
+}
+.title2{
+    text-align: justify;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.flexible2{
+    display: flex;
+    margin-left: 200px;
+
+}
+
+.youtube{
+    width: 50%;
+    margin: 20px;
+}
